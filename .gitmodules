@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/kgpksh/react_forum_with_spring
+[submodule "backend"]
+	path = backend
+	url = https://github.com/kgpksh/spring_forum_with_react
